@@ -13,7 +13,7 @@
 <h4 align="center">Desenvolvedor em formação, Apaixonado por tecnologia e resolução de problemas com foco em desenvolvimento de software. Gosto de aprender novas tecnologias, resolver desafios e criar soluções úteis. </h4>
 
 ### 🛠️ Tecnologias & Ferramentas:
-
+<h4 align="center">
   <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" />
   <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40" />
   <img alt="React" src="https://skillicons.dev/icons?i=react" height="40" />
@@ -27,3 +27,4 @@
   <img alt="GitHub" src="https://skillicons.dev/icons?i=vscode" height="40" />
   <img alt="GitHub" src="https://skillicons.dev/icons?i=bootstrap" height="40" />
   <img alt="GitHub" src="https://skillicons.dev/icons?i=androidstudio" height="40" />
+  </h4>
