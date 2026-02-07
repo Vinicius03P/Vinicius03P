@@ -1,4 +1,4 @@
-<img alt="JavaScript" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<img alt="JavaScript" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="center"/>
 
 
 <p align="center">
