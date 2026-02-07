@@ -1,5 +1,5 @@
   
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right"/>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="left"/>
   
   
   <p align="center">
